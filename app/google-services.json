@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "359885071361",
+    "firebase_url": "https://notifiew.firebaseio.com",
+    "project_id": "notifiew",
+    "storage_bucket": "notifiew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359885071361:android:54fb504d650851c5",
+        "android_client_info": {
+          "package_name": "com.rdc.notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359885071361-rkpgqfntr65jce09eucn8df1vps08bri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQvZjY_riUTh1cYBIXkI9d4XAfxwS86I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359885071361:android:fd783bf09d9969e0",
+        "android_client_info": {
+          "package_name": "in.ac.iiitk.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359885071361-tnuld49vqik060vbbgi12jhcs2oqcdf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.iiitk.messenger",
+            "certificate_hash": "0914029d311e287d78e891ee4466f43c3ab07182"
+          }
+        },
+        {
+          "client_id": "359885071361-rkpgqfntr65jce09eucn8df1vps08bri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQvZjY_riUTh1cYBIXkI9d4XAfxwS86I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359885071361-rkpgqfntr65jce09eucn8df1vps08bri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
